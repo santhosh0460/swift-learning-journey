@@ -1,0 +1,11 @@
+import Foundation
+var age = 21
+age = 14
+var hasId = true
+var mark = 75
+if age >= 18 || mark >= 50 && hasId != true {
+    print ("Eligible")
+}
+else{
+    print ("Not Eligible")
+}
