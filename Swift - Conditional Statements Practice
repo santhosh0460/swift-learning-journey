@@ -1,0 +1,11 @@
+var mark = 35
+
+if mark >= 90{
+    print(" Pass")
+}
+else if mark >= 40{
+    print(" Just Pass")
+}
+else{
+    print("Fail")
+}
