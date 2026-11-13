@@ -1,0 +1,4 @@
+import Foundation
+var age = 21
+var hasId = true
+print(age>=18 && hasId == true)
