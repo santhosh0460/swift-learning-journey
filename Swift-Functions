@@ -1,0 +1,6 @@
+func add(a: Int, b: Int) {
+    let result = a + b
+    print(result)
+}
+
+add(a: 10, b: 20)
