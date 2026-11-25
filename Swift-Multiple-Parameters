@@ -1,0 +1,8 @@
+func studentDetails(name: String, age: Int, mark: Int) -> String {
+
+    return "Name: \(name), Age: \(age), Mark: \(mark)"
+}
+
+let result = studentDetails(name: "Santhosh", age: 21, mark: 90)
+
+print(result)
